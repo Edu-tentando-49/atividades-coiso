@@ -1,0 +1,11 @@
+será usado um dos métodos ágeis para fazer a daily(atividade de hoje)
+métodos ágeis == "scrum, kanban..."
+será usado scrum.
+:D
+provavelmente vamos fazer duas dailys, uma hoje e outra na segunda-feira.
+
+
+quando faz-se o método estático, a instância não é feita, sim uma chamada do método
+com a classe primeiro e depois a função após o ponto:
+método = nome_do_interagir.nome_funcao
+
